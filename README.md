@@ -22,5 +22,5 @@
 - Jayden Pereira
 - Brandon Wang
 
-### Origins
+## Origins
 - Started from research project in EN 250: Quantitative Biology at Stevens Institute of Technology (January 2020)
