@@ -1,5 +1,4 @@
-# forestFire
-Forest Fire Predictor using OpenCV
+# Forest Fire Predictor using OpenCV :fire:
 
 ## Problem
 - Forest fires have been increasing and causing serious damage all over the world. 
