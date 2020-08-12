@@ -15,3 +15,9 @@
 - The data from smartphones can be captured and relayed to other systems, like the **national arcGIS Wildfire Public Information Dashboard**, through existing apps from ESRI, the company that develops the arcGIS software. 
 - From there, the data can be used by **firefighters, scientists, government officials**, and other individuals to help combat any wildfires based on the locations where they receive data from. 
 - This data can even be overlayed into larger maps that model wind speed and weather patterns so firefighting resources can be more effectively used. 
+
+## Members
+- Luke McEvoy
+- Alexander Murtagh
+- Jayden Pereira
+- Brandon Wang
