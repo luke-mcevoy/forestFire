@@ -1,6 +1,6 @@
 Started project January 2020.
 
-What I knew then January 2020
+What I knew then : January 2020
     - Python
     - OpenCV, Numpy
     - C / C++
@@ -11,7 +11,7 @@ Original technology stack
     - arcGIS, Python
     - REST API
 
-What I know now August 2020
+What I know now : August 2020
     - Python
     - OpenCV, Scikit-Learn, Numpy
     - C / C++
@@ -21,12 +21,7 @@ What I know now August 2020
     - Intermediate Flutter 
     - Google ML Kit
 
-Tool summary
-    - Mobile
-    - Model integration
-    - Network calls + JSON handling
-
-What I will know January 2021 (O'Reilly textbook)
+What I will know by January 2021 (O'Reilly textbook)
     - Unsupervised, supervised ML
     - Decision Trees
     - Model construction
@@ -35,3 +30,12 @@ What I will know January 2021 (O'Reilly textbook)
 
 What I will learn after January 2021
     - arcGIS in Mobile
+
+Estimated technology stack
+    - Keras + TensorFlow
+    - GoogleCloud / Firebase
+    - Android
+        - CameraX
+        - GPS location
+        - Retrofit + Moshi
+    - arcGIS
