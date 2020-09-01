@@ -1,0 +1,2 @@
+- Are images being sent to model through API, or is a lite version of model local?
+- Who is our user?

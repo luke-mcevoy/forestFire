@@ -1,0 +1,13 @@
+Android + Model
+
+Android
+- Camera Functionalty
+    - Permissions
+    - UI
+    - Lifecycle
+- GPS Functionalty
+    - Permissions
+    - LiveData?
+
+Model
+-  
