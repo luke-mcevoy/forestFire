@@ -1,0 +1,37 @@
+Started project January 2020.
+
+What I knew then January 2020
+    - Python
+    - OpenCV, Numpy
+    - C / C++
+    - Basic web development + network calls
+
+Original technology stack
+    - YOLO, CNN
+    - arcGIS, Python
+    - REST API
+
+What I know now August 2020
+    - Python
+    - OpenCV, Scikit-Learn, Numpy
+    - C / C++
+    - Java / Kotlin
+    - Android : Jetpack (CameraX)
+    - Retrofit + Moshi
+    - Intermediate Flutter 
+    - Google ML Kit
+
+Tool summary
+    - Mobile
+    - Model integration
+    - Network calls + JSON handling
+
+What I will know January 2021 (O'Reilly textbook)
+    - Unsupervised, supervised ML
+    - Decision Trees
+    - Model construction
+    - Model deployment
+    - Model integration
+
+What I will learn after January 2021
+    - arcGIS in Mobile
