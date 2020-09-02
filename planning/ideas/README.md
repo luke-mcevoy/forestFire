@@ -43,6 +43,7 @@ Estimated technology stack
     - Retrofit + Moshi
 - arcGIS
 
+<p>&nbsp;</p>
 ## Product Details
 Android + Model
 
