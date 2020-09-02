@@ -43,7 +43,9 @@ Estimated technology stack
     - Retrofit + Moshi
 - arcGIS
 
-<p>&nbsp;</p>
+
+
+
 ## Product Details
 Android + Model
 
@@ -57,6 +59,9 @@ Android
     - LiveData?
 
 Model
+
+
+
 
 ## Questions
 - Are images being sent to model through API, or is a lite version of model local?
