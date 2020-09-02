@@ -42,9 +42,7 @@ Estimated technology stack
     - GPS location
     - Retrofit + Moshi
 - arcGIS
-
-
-
+&nbsp;
 
 ## Product Details
 Android + Model
@@ -59,8 +57,7 @@ Android
     - LiveData?
 
 Model
-
-
+&nbsp;
 
 
 ## Questions
