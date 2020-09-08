@@ -26,9 +26,19 @@ There are four major categories:
         - Kernel PCA
         - Locally Linear Embedding (LLE)
         - t-Distributed Stochastic Neighbor Embedding (t-SNE)
-    - Aasociation rule learning
+    - Association rule learning
         - Apriori
         - Eclat
 - Semisupervised learning
+    - Algorithms that work with partially labeled data.
 - Reinforcement learning
+    - The system observes the enviornment, selects and performs actions, and gets rewards or penalities for its choices.
+
+#### Batch and Online Learning
+- Batch Learning
+    - The system is incapable of learning incrementally. It must be trained using all the avaliable data.
+    - The system applies what it has learned offline while taking in no info which is called offline learning.
+- Online Learning
+    - Train system incrementally by feeding it data instances sequentially.
+    - System can learn data as it arrives.
 
