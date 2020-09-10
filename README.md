@@ -16,11 +16,18 @@
 - From there, the data can be used by **firefighters, scientists, government officials**, and other individuals to help combat any wildfires based on the locations where they receive data from. 
 - This data can even be overlayed into larger maps that model wind speed and weather patterns so firefighting resources can be more effectively used. 
 
-## Members
-- Luke McEvoy
-- Alexander Murtagh
-- Jayden Pereira
-- Brandon Wang
-
 ## Origins
-- Started from research project in EN 250: Quantitative Biology at Stevens Institute of Technology (January 2020)
+- Started from research project in EN 250: Quantitative Biology at Stevens Institute of Technology (January 2020) under Professor Strigul
+
+## Weekly Assessment
+
+### Week 1 : (9/3 - 9/10)
+Completed this week: 
+- [X] Wrapping up Chapter 1 of the O'Reilly Hands-On-ML textbook
+- [X] Created an Android application with camera functionality using CameraX
+
+Goals coming week:
+- [ ] Complete Chapter 2 of the textbook
+- [ ] Input Google's Object Detection Machine Learning Model into Android application.
+
+### Week 2 : (9/11 - 9/18)
