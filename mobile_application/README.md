@@ -1,5 +1,10 @@
 ## Android Development
 
+### CameraX Demo
+![](cameraXDemo.webm)
+
+
+### To Do
 - [ ] CameraX 
     - [X] Core functionality
         - [X] Permissions
