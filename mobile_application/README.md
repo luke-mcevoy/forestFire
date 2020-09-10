@@ -1,8 +1,7 @@
 ## Android Development
 
 ### CameraX Demo
-![](cameraXDemo.webm)
-
+<img align="center" src="https://github.com/luke-mcevoy/forestFire/blob/master/mobile_application/demoFootage/cameraXDemo.gif" width="380" height="700">
 
 ### To Do
 - [ ] CameraX 
