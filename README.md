@@ -17,7 +17,7 @@
 - This data can even be overlayed into larger maps that model wind speed and weather patterns so firefighting resources can be more effectively used. 
 
 ## Origins
-- Started from research project in EN 250: Quantitative Biology at Stevens Institute of Technology (January 2020) under Professor Strigul
+- Started from research project in EN 250: Quantitative Biology at Stevens Institute of Technology (January 2020) with Alexander Murtagh, Jayden Pereira, Brandon Wang under Professor Strigul
 
 ## Weekly Assessment
 
